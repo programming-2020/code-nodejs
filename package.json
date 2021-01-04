@@ -1,0 +1,22 @@
+{
+  "name": "apps",
+  "version": "1.0.0",
+  "description": "NodeJS example apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programming-2020/node.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Damjan Ivanovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programming-2020/node/issues"
+  },
+  "homepage": "https://github.com/programming-2020/node#readme"
+}
