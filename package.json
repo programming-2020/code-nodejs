@@ -4,7 +4,9 @@
   "description": "NodeJS example apps",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "nodemon": "npx nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/programming-2020/node/issues"
   },
-  "homepage": "https://github.com/programming-2020/node#readme"
+  "homepage": "https://github.com/programming-2020/node#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
 }
